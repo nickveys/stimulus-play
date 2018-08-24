@@ -1,0 +1,10 @@
+{
+  "name": "stimulus-play",
+  "version": "1.0.0",
+  "description": "Learning Stimulus",
+  "license": "MIT",
+  "dependencies": {
+    "stimulus": "^1.1.0",
+    "@stimulus/webpack-helpers": "^1.1.0"
+  }
+}
